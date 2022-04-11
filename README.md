@@ -49,4 +49,7 @@
 8. connect-session-sequelize
 
 # url link 
-<a href="#">#</a>
+<a href="https://tech-blog-oli.herokuapp.com/">Tech-Blog</a>
+
+# img
+<img src="#">
